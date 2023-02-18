@@ -1,0 +1,1 @@
+recherches sur l'algorithme étendu d'Euclide, pour trouver une manière moins coûteuse de calculer la clé de déchiffrage d. https://www.youtube.com/watch?v=9nDQzF4jmBs 
